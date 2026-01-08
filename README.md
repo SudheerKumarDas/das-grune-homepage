@@ -15,13 +15,6 @@ Das Grüne is a static homepage project that showcases:
 
 This project is part of a portfolio to demonstrate frontend development skills and design awareness.
 
-
-├── index.html         # Main HTML page
-├── style.css          # Stylesheet for layout and design
-├── images/            # Assets folder (if any images are used)
-└── README.md          # Documentation for this project
-
-
 ## 🛠 Built With
 
 | Category | Tools & Technologies    |
